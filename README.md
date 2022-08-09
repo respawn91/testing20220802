@@ -6,8 +6,7 @@
 
 
 
-Работать с кодом
-
+Работать с кодом (локально):
 - https://code.visualstudio.com/
 - https://notepad-plus-plus.org/downloads/ (Windows only)
 - https://www.sublimetext.com/ (MacOS only)
