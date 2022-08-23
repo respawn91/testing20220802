@@ -10,3 +10,9 @@
 - https://code.visualstudio.com/
 - https://notepad-plus-plus.org/downloads/ (Windows only)
 - https://www.sublimetext.com/ (MacOS only)
+
+Работа с ООП:
+- https://codeboard.io/
+
+Примеры ООП:
+- Люди, ноутбуки и прочие: https://codeboard.io/projects/342068
