@@ -18,3 +18,7 @@
 - Люди, ноутбуки и прочие: https://codeboard.io/projects/342068
 - Абстрактные животные: https://codeboard.io/projects/342564
 - Треугольники: https://codeboard.io/projects/342575
+
+Unit-tests:
+- https://codeboard.io/projects/344221
+- https://codeboard.io/projects/344225
